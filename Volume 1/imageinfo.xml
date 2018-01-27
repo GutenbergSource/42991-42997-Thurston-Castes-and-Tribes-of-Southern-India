@@ -1,0 +1,90 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/decoration.jpg" filesize="63087" filedate="2011-03-06 19:16:54" width="720px" height="193px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/front-cover-tn.jpg" filesize="9629" filedate="2012-12-08 07:18:28" width="192px" height="320px">
+</image>
+<image path="images/front-cover.jpg" filesize="59658" filedate="2012-12-08 07:17:40" width="432px" height="720px">
+</image>
+<image path="images/initial-a.png" filesize="2263" filedate="2012-12-08 07:23:35" width="64px" height="63px">
+</image>
+<image path="images/initial-i.png" filesize="2364" filedate="2012-12-08 07:29:23" width="64px" height="65px">
+</image>
+<image path="images/initial-t.png" filesize="2160" filedate="2012-12-08 07:28:30" width="64px" height="64px">
+</image>
+<image path="images/leaf.png" filesize="639" filedate="2012-12-08 07:21:48" width="46px" height="29px">
+</image>
+<image path="images/leftbrace2.png" filesize="588" filedate="2012-12-08 07:51:37" width="9px" height="61px">
+</image>
+<image path="images/pl0-026.jpg" filesize="48714" filedate="2011-04-14 20:10:07" width="502px" height="720px">
+</image>
+<image path="images/pl0-028.jpg" filesize="63267" filedate="2011-04-14 20:09:30" width="720px" height="513px">
+</image>
+<image path="images/pl0-046.jpg" filesize="43080" filedate="2011-04-14 20:09:00" width="520px" height="720px">
+</image>
+<image path="images/pl0-048.jpg" filesize="72934" filedate="2011-04-14 20:08:07" width="511px" height="720px">
+</image>
+<image path="images/pl1-009.jpg" filesize="91144" filedate="2011-04-14 20:12:48" width="720px" height="522px">
+</image>
+<image path="images/pl1-053.jpg" filesize="77525" filedate="2011-04-14 20:12:10" width="497px" height="720px">
+</image>
+<image path="images/pl1-071.jpg" filesize="107411" filedate="2011-04-14 20:11:37" width="720px" height="518px">
+</image>
+<image path="images/pl1-073.jpg" filesize="90905" filedate="2011-04-14 20:11:04" width="720px" height="533px">
+</image>
+<image path="images/pl1-075.jpg" filesize="69573" filedate="2012-11-28 12:15:10" width="514px" height="720px">
+</image>
+<image path="images/pl1-095.jpg" filesize="79471" filedate="2012-11-28 12:16:03" width="720px" height="519px">
+</image>
+<image path="images/pl1-099.jpg" filesize="89746" filedate="2012-11-28 12:16:38" width="720px" height="508px">
+</image>
+<image path="images/pl1-117.jpg" filesize="84190" filedate="2012-11-28 12:17:19" width="720px" height="517px">
+</image>
+<image path="images/pl1-119.jpg" filesize="69771" filedate="2012-11-28 12:18:17" width="496px" height="720px">
+</image>
+<image path="images/pl1-133.jpg" filesize="70813" filedate="2012-12-05 08:58:26" width="720px" height="520px">
+</image>
+<image path="images/pl1-139.jpg" filesize="65458" filedate="2012-12-05 08:59:21" width="493px" height="720px">
+</image>
+<image path="images/pl1-141.jpg" filesize="78938" filedate="2012-12-05 09:00:15" width="512px" height="720px">
+</image>
+<image path="images/pl1-157.jpg" filesize="90983" filedate="2012-12-05 09:01:03" width="720px" height="501px">
+</image>
+<image path="images/pl1-159.jpg" filesize="89231" filedate="2012-12-05 09:02:02" width="720px" height="538px">
+</image>
+<image path="images/pl1-163.jpg" filesize="107744" filedate="2012-12-05 09:02:56" width="539px" height="720px">
+</image>
+<image path="images/pl1-185.jpg" filesize="82457" filedate="2012-12-05 09:03:43" width="518px" height="720px">
+</image>
+<image path="images/pl1-247.jpg" filesize="57931" filedate="2012-12-05 09:04:30" width="530px" height="720px">
+</image>
+<image path="images/pl1-281.jpg" filesize="77516" filedate="2012-12-05 09:05:18" width="517px" height="720px">
+</image>
+<image path="images/pl1-319.jpg" filesize="72056" filedate="2012-12-05 09:06:04" width="488px" height="720px">
+</image>
+<image path="images/pl1-322.jpg" filesize="74820" filedate="2012-12-05 09:06:56" width="720px" height="483px">
+</image>
+<image path="images/pl1-331.jpg" filesize="86199" filedate="2012-12-05 09:08:10" width="720px" height="534px">
+</image>
+<image path="images/pl1-341.jpg" filesize="82389" filedate="2012-12-05 09:08:57" width="500px" height="720px">
+</image>
+<image path="images/pl1-371.jpg" filesize="82972" filedate="2012-12-05 09:09:58" width="543px" height="720px">
+</image>
+<image path="images/pl1-379.jpg" filesize="107124" filedate="2012-12-05 09:10:41" width="523px" height="720px">
+</image>
+<image path="images/pl1-387.jpg" filesize="66911" filedate="2012-12-05 09:11:27" width="534px" height="720px">
+</image>
+<image path="images/pl1-391.jpg" filesize="80257" filedate="2012-12-05 09:12:14" width="506px" height="720px">
+</image>
+<image path="images/plate-5.png" filesize="16364" filedate="2012-12-05 09:26:09" width="459px" height="720px">
+</image>
+<image path="images/rightbrace5.png" filesize="974" filedate="2012-12-07 06:40:19" width="12px" height="114px">
+</image>
+<image path="images/titlepage.png" filesize="15232" filedate="2012-12-05 09:33:55" width="465px" height="720px">
+</image>
+</images>

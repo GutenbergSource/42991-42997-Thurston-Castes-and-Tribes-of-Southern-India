@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Castes and Tribes of Southern India</dc:title>
+      <dc:creator>Edgar Thurston (1855–1935)</dc:creator>
+      <dc:creator>Kadambi Rangachari (1868–1934)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., #####</dc:publisher>
+      <dc:date>#####</dc:date>
+      <dc:subject>Caste -- India Madras (Presidency)</dc:subject>
+      <dc:subject>Ethnology -- India Madras (Presidency)</dc:subject>
+      <dc:subject>India -- Social conditions</dc:subject>
+      <dc:subject>Caste -- India Tamil Nadu</dc:subject>
+      <dc:subject>Ethnology -- India Tamil Nadu</dc:subject>
+   </rdf:Description>
+</rdf:RDF>
